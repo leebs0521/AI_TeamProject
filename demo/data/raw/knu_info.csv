@@ -1,0 +1,5125 @@
+﻿question,label
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
+웹메일,S-KEYWORD
+웹메일 어디서 만들어?,S-KEYWORD O O
+웹메일이란,S-KEYWORD
+웹메일 어떻게 만들어?,S-KEYWORD O O
+웹메일 만들기,S-KEYWORD O
+웹메일 생성하기,S-KEYWORD O
+웹메일 생성하는 법 알려줘,S-KEYWORD O O O
+웹메일 생성 어떻게 해?,S-KEYWORD O O O
+웹메일 만드는거 어떻게 해?,S-KEYWORD O O O
+웹메일 회원가입,S-KEYWORD O
+학생증,S-KEYWORD
+학생증 어디서 만들어?,S-KEYWORD O O
+학생증이란,S-KEYWORD
+학생증 어떻게 만들어?,S-KEYWORD O O
+학생증 만들기,S-KEYWORD O
+학생증 생성하기,S-KEYWORD O
+학생증 만드는 법 알려줘,S-KEYWORD O O O
+학생증 생성 어떻게 해?,S-KEYWORD O O O
+학생증 만드는거 어떻게 해?,S-KEYWORD O O O
+학생증 만드는 법,S-KEYWORD O O
+워드 다운로드,S-KEYWORD O
+워드,S-KEYWORD
+워드 어디서 다운 받아?,S-KEYWORD O O O
+워드 다운로드 방법,S-KEYWORD O O
+워드 프로그램,S-KEYWORD O
+한글,S-KEYWORD
+한글 다운로드,S-KEYWORD O
+한글 어디서 다운 받아?,S-KEYWORD O O O
+한글 다운로드 방법,S-KEYWORD O O
+한글 프로그램,S-KEYWORD O
+파워포인트,S-KEYWORD
+파워포인트 다운로드,S-KEYWORD O
+파워포인트 어디서 다운 받아?,S-KEYWORD O O O
+파워포인트 다운로드 방법,S-KEYWORD O O
+파워포인트 프로그램,S-KEYWORD O
+인쇄,S-KEYWORD
+인쇄 어디서해?,S-KEYWORD O
+인쇄 하는 곳,S-KEYWORD O O
+인쇄 하는 장소 알려줘,S-KEYWORD O O O
+인쇄 되는 곳,S-KEYWORD O O
+인쇄하는 장소,S-KEYWORD O
+복사,S-KEYWORD
+복사 어디서해?,S-KEYWORD O
+복사 하는 곳,S-KEYWORD O O
+복사 하는 장소 알려줘,S-KEYWORD O O O
+복사 되는 곳,S-KEYWORD O O
+복사하는 장소,S-KEYWORD O
+제본,S-KEYWORD
+제본 어디서해?,S-KEYWORD O
+제본 하는 곳,S-KEYWORD O O
+제본 하는 장소 알려줘,S-KEYWORD O O O
+제본 되는 곳,S-KEYWORD O O
+제본하는 장소,S-KEYWORD O
+기숙사,S-KEYWORD
+기숙사 종류 알려줘,S-KEYWORD O O
+기숙사 알려줘,S-KEYWORD O
+기숙사가 어떤것이 있어?,S-KEYWORD O O
+기숙사에 대해 알려줘,S-KEYWORD O O
+강원대 기숙사,O S-KEYWORD
+강원대 기숙사에 대해 알려줘,O S-KEYWORD O O
+기숙사 종류 어떤게 있어,S-KEYWORD O O O
+기숙사란,S-KEYWORD
+기숙사 정보,S-KEYWORD O
+기숙사 정보 알려줘,S-KEYWORD O O
+장학금 알려줘,S-KEYWORD O
+장학금 정보,S-KEYWORD O
+장학금에 대해서,S-KEYWORD O
+우리 장학금 기준,O S-KEYWORD O
+장학금 종류,S-KEYWORD O
+장학금은?,S-KEYWORD
+야 장학금 보여줘,O S-KEYWORD O
+장학금에 대해 알려줄래,S-KEYWORD O O
+성적장학금,S-KEYWORD
+교내장학금,S-KEYWORD
+장학금 기준이 뭐지,S-KEYWORD O O
+그럼 장학금 정보,O S-KEYWORD O
+장학금이 뭐야,S-KEYWORD O
+수업시간 알려줘,S-KEYWORD O
+수업시간 정보,S-KEYWORD O
+수업시간에 대해서,S-KEYWORD O
+수업시간이 궁금해,S-KEYWORD O
+우리 수업시간 기준,O S-KEYWORD O
+수업시간에 대해 알려줘,S-KEYWORD O O
+수업시간은?,S-KEYWORD
+수업시간 정보 알려줘,S-KEYWORD O O
+수업시간 부탁해,S-KEYWORD O
+수업시간 차이,S-KEYWORD O
+수업시간 차이에 대해서,S-KEYWORD O O
+봉사활동 어떻게 해,S-KEYWORD O O
+봉사활동 정보,S-KEYWORD O
+봉사활동 궁금해,S-KEYWORD O
+봉사활동 알려줘,S-KEYWORD O
+우리 봉사활동은?,O S-KEYWORD
+봉사활동 신청,S-KEYWORD O
+봉사활동에 대해 부탁해,S-KEYWORD O O
+봉사활동에 대해서,S-KEYWORD O
+야 봉사활동 어떻게 해,O S-KEYWORD O O
+봉사활동 장소,S-KEYWORD O
+봉사활동 방법,S-KEYWORD O
+학교 술집 알려줘,O S-KEYWORD O
+학교 술집 어디가 좋아?,O S-KEYWORD O O
+학교 술집 정보,O S-KEYWORD O
+오늘은 어디 학교 근처 술집 갈까?,O O O O S-KEYWORD O
+좋은 학교 주변 술집,O O O S-KEYWORD
+학교 주변 술집 궁금해,O O S-KEYWORD O
+학교 근처 술집 추천,O O S-KEYWORD O
+학교 주변 술집 어디 갈까?,O O S-KEYWORD O O
+분위기 좋은 학교 주변 술집,O O O O S-KEYWORD
+학교 근처 핫플레이스 술집,O O O S-KEYWORD
+학교 주변 술집,O O S-KEYWORD
+학교 맛집 알려줘,O S-KEYWORD O
+학교 근처 맛집,O O S-KEYWORD
+학교 맛집 정보,O S-KEYWORD O
+학교 주변 맛집에 대해서,O O S-KEYWORD O
+좋은 학교 주변 맛집,O O O S-KEYWORD
+학교 주변 맛집 추천,O O S-KEYWORD O
+학교 주변 맛집 정보,O O S-KEYWORD O
+오늘 갈만한 학교 주변 맛집,O O O O S-KEYWORD
+괜찮은 학교 주변 맛집,O O O S-KEYWORD
+학교 근처 좋은 맛집 있어?,O O O S-KEYWORD O
+수강신청이 언제야?,S-KEYWORD O
+수강신청 기간이 어떻게 돼?,S-KEYWORD O O O
+우리학교 수강신청 날짜를 알려줘,O S-KEYWORD O O
+수강신청,S-KEYWORD
+언제야 수강신청,O S-KEYWORD
+수강신청 날짜 알려줘,S-KEYWORD O O
+두리야 수강신청 언제 해야해,O S-KEYWORD O O
+두리야 강대 수강신청 언제야,O O S-KEYWORD O
+강원대학교 수강신청 날짜랑 시간을 알려줘,O S-KEYWORD O O O
+수강신청 언제 할까,S-KEYWORD O O
+언제가 수강신청하는 날이야?,O S-KEYWORD O
+우리 수강신청 언제임,O S-KEYWORD O
+언제 수강신청을 해야해?,O S-KEYWORD O
+수강신청 며칠에 하니,S-KEYWORD O O
+수강신청 정정기간이 언제야,O S-KEYWORD O
+시간표 바꾸고 싶은데 정정기간 날짜 알려줘,O O O S-KEYWORD O O
+정정기간은 언제야,S-KEYWORD O
+정정기간 시간이 어떻게 돼,S-KEYWORD O O O
+두리야 우리 학교 수강신청 정정기간 알려줘,O O O O S-KEYWORD O
+두리야 정정기간 언제임,O S-KEYWORD O
+드랍할건데 정정기간 알려줘,O S-KEYWORD O
+정정기간,S-KEYWORD
+수강신청 정정기간,O S-KEYWORD
+언제가 정정기간이야?,O S-KEYWORD
+강의계획서 어디서 봐,S-KEYWORD O O
+학교 홈피에 강의계획서 올라와있어?,O O S-KEYWORD O
+강의계획서 불러와줘,S-KEYWORD O
+두리야 강의계획서가 궁금해,O S-KEYWORD O
+두리야 강의계획서 파일 좀 줘,O S-KEYWORD O O O
+강의계획서 내용 어디서 봐?,S-KEYWORD O O O
+강의계획서는 어떻게 보는건가요,S-KEYWORD O O
+나에게 강의계획서 어디서 볼 수 있는지 알려줄 두리,O S-KEYWORD O O O O O O
+강의계획서가 안보여,S-KEYWORD O
+어디서 봐 강의계획서,O O S-KEYWORD
+강의계획서,S-KEYWORD
+강의계획서를 어떻게 볼 수 있을까요,S-KEYWORD O O O O
+이 과목 강의평가 어디서 봐,O O S-KEYWORD O O
+수업 강의평가 어디서 볼 수 있어?,O S-KEYWORD O O O O
+두리야 강의평가 어디서 보는지 알려줘,O S-KEYWORD O O O
+강의평가,S-KEYWORD
+강의평가 어데서 봐,S-KEYWORD O O
+강의평가 어떻게 보는지 알려줄 두리 구함,S-KEYWORD O O O O O
+학교 홈페이지에서 강의평가를 볼 수 있어?,O O S-KEYWORD O O O
+강의평가를 도대체 어디서 보는거야,S-KEYWORD O O O
+강의평가 보는 방법 좀 알려줘,S-KEYWORD O O O O
+어떻게 하면 강의평가를 볼 수 있을까요?,O O S-KEYWORD O O O
+강의평가 알려줘,S-KEYWORD O
+두리야 강의평가 어디서 보니,O S-KEYWORD O O
+우리학교 학사일정이 어떻게 돼,O S-KEYWORD O O
+1월 학사일정 좀 알려줘,O S-KEYWORD O O
+우리학교 2월 학사일정 뭐 있어?,O O S-KEYWORD O O
+3월 개강인데 학사일정 좀 보여줘,O O S-KEYWORD O O
+4월에 학사일정이 어떻게 돼?,O S-KEYWORD O O
+5월에 학사일정 뭐 있는지 알려줘,O S-KEYWORD O O O
+학사일정 어디서 봐,S-KEYWORD O O
+학사일정 좀 보여줘,S-KEYWORD O O
+강대 학사일정을 알려달라,O S-KEYWORD O
+두리야 강대 학사일정을 어디서 봐야하는거니,O O S-KEYWORD O O
+학사일정 알려줘,S-KEYWORD O
+두리야 학사일정 알려줘,O S-KEYWORD O
+학사일정이 궁금해,S-KEYWORD O
+학사일정을 알고싶어,S-KEYWORD O
+와이파이,S-KEYWORD
+무선랜,S-KEYWORD
+와이파이 비번,S-KEYWORD O
+와이파이 비밀번호,S-KEYWORD O
+와이파이 비밀번호 뭐야?,S-KEYWORD O O
+와이파이 비밀번호 알려줘,S-KEYWORD O O
+무선랜 암호 알려줘,S-KEYWORD O O
+무료 와이파이,O S-KEYWORD
+학교 와이파이,O S-KEYWORD
+학교 무선랜,O S-KEYWORD
+와이파이는?,S-KEYWORD
+와이파이좀,S-KEYWORD
+와이파이 알려줘,S-KEYWORD O
+부전공,S-KEYWORD
+복수전공,S-KEYWORD
+부전공 복수전공 차이점,S-KEYWORD O O
+부전공 복수전공 차이점 알려줘,S-KEYWORD O O O
+부전공 신청기간,S-KEYWORD O
+복수전공 신청기간,S-KEYWORD O
+부전공 신청기간 언제야?,S-KEYWORD O O
+복수전공 신청기간 언제야?,S-KEYWORD O O
+부전공 신청,S-KEYWORD O
+복수전공 신청,S-KEYWORD O
+복수전공 어떻게 해?,S-KEYWORD O O
+부전공 어떻게 해?,S-KEYWORD O O
+복수전공 어떻게 신청해?,S-KEYWORD O O
+부전공 어떻게 신청해?,S-KEYWORD O O
+동아리,S-KEYWORD
+중앙동아리,S-KEYWORD
+중앙동아리 어떤게 있어?,S-KEYWORD O O
+중앙동아리 알려줘,S-KEYWORD O
+동아리 알려줘,S-KEYWORD O
+중앙동아리 찾아줘,S-KEYWORD O
+동아리 찾아줘,S-KEYWORD O
+중앙동아리 보여줘,S-KEYWORD O
+운동 동아리,O S-KEYWORD
+봉사 동아리,O S-KEYWORD
+문학 동아리,O S-KEYWORD
+밴드 동아리,O S-KEYWORD
+음악 동아리,O S-KEYWORD
+학식,S-KEYWORD
+학식 어디에서 먹어?,S-KEYWORD O O
+학생식당 어디야,S-KEYWORD O
+학생식당 알려줘,S-KEYWORD O
+학식은?,S-KEYWORD
+학식 어디서 먹어?,S-KEYWORD O O
+학생식당 어디에 있어?,S-KEYWORD O O
+학식 어디서 먹는지 알려줘,S-KEYWORD O O O
+학생식당 찾아줘,S-KEYWORD O
+학식 먹고 싶어,S-KEYWORD O O
+학생식당 가고 싶어,S-KEYWORD O O
+학생식당 궁금해,S-KEYWORD O
+학교지도,S-KEYWORD
+학교지도 보여줘,S-KEYWORD O
+학교지도 어디있어?,S-KEYWORD O
+학교지도는?,S-KEYWORD
+학교지도좀,S-KEYWORD
+학교지도 찾아줘,S-KEYWORD O
+강원대 학교지도,O S-KEYWORD
+강원대학교 학교지도,O S-KEYWORD
+학교지도 정보,S-KEYWORD O
+학교지도 있어?,S-KEYWORD O
